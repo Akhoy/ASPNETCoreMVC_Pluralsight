@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ASPNETCoreMVC_Pluralsight_Final.props" />
+</Project>
