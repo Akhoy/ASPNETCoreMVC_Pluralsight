@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASPNETCoreMVC_Pluralsight_Final")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3f0dda0a249210a4f2eb9c9c44763448e6afb9e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASPNETCoreMVC_Pluralsight_Final")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASPNETCoreMVC_Pluralsight_Final")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

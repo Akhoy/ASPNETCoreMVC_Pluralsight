@@ -25,3 +25,4 @@ D:\programming\ASPNETCoreMVC_Pluralsight_Final\obj\Debug\net8.0\refint\ASPNETCor
 D:\programming\ASPNETCoreMVC_Pluralsight_Final\obj\Debug\net8.0\ASPNETCoreMVC_Pluralsight_Final.pdb
 D:\programming\ASPNETCoreMVC_Pluralsight_Final\obj\Debug\net8.0\ASPNETCoreMVC_Pluralsight_Final.genruntimeconfig.cache
 D:\programming\ASPNETCoreMVC_Pluralsight_Final\obj\Debug\net8.0\ref\ASPNETCoreMVC_Pluralsight_Final.dll
+D:\programming\ASPNETCoreMVC_Pluralsight_Final\obj\Debug\net8.0\ASPNETCoreMVC_Pluralsight_Final.sourcelink.json

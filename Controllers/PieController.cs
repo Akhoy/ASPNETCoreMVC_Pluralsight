@@ -1,5 +1,6 @@
 using MVCAppModels;
 using Microsoft.AspNetCore.Mvc;
+using MVCAppViewModels;
 
 namespace MVCAppControllers
 {
@@ -15,8 +16,8 @@ namespace MVCAppControllers
         // GET: PieController
         public ActionResult List()
         {
-            ViewBag.CurrentCategory="Cheese Cake";
-            return View(_pieRepository.AllPies);
+            PieListViewModel pieListViewModel = new PieListViewModel(_pieRepository.AllPies, "Cheese cakes");
+            return View(pieListViewModel);
         }
 
     }
