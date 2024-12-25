@@ -26,3 +26,5 @@ D:\programming\ASPNETCoreMVC_Pluralsight_Final\obj\Debug\net8.0\ASPNETCoreMVC_Pl
 D:\programming\ASPNETCoreMVC_Pluralsight_Final\obj\Debug\net8.0\ASPNETCoreMVC_Pluralsight_Final.genruntimeconfig.cache
 D:\programming\ASPNETCoreMVC_Pluralsight_Final\obj\Debug\net8.0\ref\ASPNETCoreMVC_Pluralsight_Final.dll
 D:\programming\ASPNETCoreMVC_Pluralsight_Final\obj\Debug\net8.0\ASPNETCoreMVC_Pluralsight_Final.sourcelink.json
+D:\programming\ASPNETCoreMVC_Pluralsight_Final\bin\Debug\net8.0\libman.json
+D:\programming\ASPNETCoreMVC_Pluralsight_Final\bin\Debug\net8.0\ASPNETCoreMVC_Pluralsight_Final.staticwebassets.runtime.json
