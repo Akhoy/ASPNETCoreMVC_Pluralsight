@@ -17,8 +17,9 @@ app.UseStaticFiles();
 if(app.Environment.IsDevelopment()){
     app.UseDeveloperExceptionPage();
 }
-app.MapDefaultControllerRoute();
+app.MapDefaultControllerRoute();//"{controller=Home}/{action=Index}/{id?}"
+app.MapControllerRoute(name: "default", pattern: "{controller=Home}/{action=Index}/{id?}");
 
-app.MapGet("/", () => "Hello World!");
+//app.MapGet("/", () => "Hello World!");
 DbInitializer.Seed(app);
 app.Run();

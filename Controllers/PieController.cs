@@ -16,8 +16,16 @@ namespace MVCAppControllers
         // GET: PieController
         public ActionResult List()
         {
-            PieListViewModel pieListViewModel = new PieListViewModel(_pieRepository.AllPies, "Cheese cakes");
+            PieListViewModel pieListViewModel = new PieListViewModel(_pieRepository.AllPies, "All cakes");
             return View(pieListViewModel);
+        }
+
+        public IActionResult Details(int id)
+        {
+            var pie = _pieRepository.GetPieById(id);
+            if(pie == null)
+                return NotFound();
+            return View(pie);
         }
 
     }
